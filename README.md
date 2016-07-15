@@ -12,5 +12,5 @@
 - クローズβテストの基本情報や環境構築については、Wikiをご参照下さい
 
 ## クローズβテストに参加するには
-- クローズβテストに参加するには、SCORER クローズβテスト サイト(https://peraichi.com/landing_pages/view/scorercb)から登録フォームを記入してください。
+- クローズβテストに参加するには、SCORER クローズβテスト サイト(https://peraichi.com/landing_pages/view/scorercb) から登録フォームを記入してください。
 - その後、弊社から参加登録完了のご連絡を差し上げます。
