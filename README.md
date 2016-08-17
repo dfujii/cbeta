@@ -22,6 +22,7 @@
     - Scorer Starter（スマフォアプリ）で、Raspberry Pi に対し、シャットダウン／リブートを指示できるようになりました。
     - Scorer Starter が、Raspberry Pi を検知する精度を向上しました。
     - Raspberry Pi Zero 用のイメージで、GW-450D2（5GHz Wifiドングル）に対応しました。
+    - Raspberry Pi のイメージを MicroSD に書き込んだ後、最初の起動時に、自動で root filesystem を拡張するようになりました（Raspbianと同等になりました）
 - 2016/8/3 - アップデートを公開しました。登録時にお知らせしたダウンロードサイトから、取得可能です。
   - 主な強化点
     - Raspberry Pi Zero 用のイメージを公開しました。
