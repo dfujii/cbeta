@@ -23,6 +23,8 @@
     - Scorer Starter が、Raspberry Pi を検知する精度を向上しました。
     - Raspberry Pi Zero 用のイメージで、GW-450D2（5GHz Wifiドングル）に対応しました。
     - Raspberry Pi のイメージを MicroSD に書き込んだ後、最初の起動時に、自動で root filesystem を拡張するようになりました。これはオフィシャルの Raspbian と同等の動作です。
+  - 注意点
+    - 本アップデートの MicroSD イメージは、最新の Scorer Starter と共にご利用ください。以前の Scorer Starter とは互換性がありません。
 - 2016/8/3 - アップデートを公開しました。登録時にお知らせしたダウンロードサイトから、取得可能です。
   - 主な強化点
     - Raspberry Pi Zero 用のイメージを公開しました。
